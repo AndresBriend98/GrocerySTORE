@@ -3,7 +3,7 @@ import { RiHome2Line, RiPercentLine, RiPieChartLine, RiMailLine, RiNotification3
 
 const Sidebar = () => {
     return (
-        <div className="bg-[#1F1D2B] fixed left-0 top-0 w-28 h-full flex flex-col justify-between">
+        <div className="bg-[#1F1D2B] fixed lg:left-0 top-0 w-28 h-full flex flex-col justify-between py-6 rounded-tr-xl rounded-br-xl z-50 -left-full">
             <div>
                 <ul className='pl-4'>
                     <li>
