@@ -78,62 +78,44 @@ function App() {
             {/* Card */}
             <div className="bg-[#1F1D2B] p-8 rounded-xl flex-col items-center text-center text-gray-300 gap-2">
               <img src="food1.png" className="w-40 h-40 object-cover -mt-20 shadow-2xl rounded-full" />
-              <p className="text-xl">Speacy seasoned seafood nodles</p>
+              <p className="text-xl">Dish one</p>
               <span className="text-gray-400">$2.29</span>
-              <p className="text-gray-600">20 Bowls available</p>
+              <p className="text-gray-600">41 Bowls available</p>
             </div>
             {/* Card */}
             <div className="bg-[#1F1D2B] p-8 rounded-xl flex-col items-center text-center text-gray-300 gap-2">
-              <img src="food1.png" className="w-40 h-40 object-cover -mt-20 shadow-2xl rounded-full" />
-              <p className="text-xl">Speacy seasoned seafood nodles</p>
-              <span className="text-gray-400">$2.29</span>
-              <p className="text-gray-600">20 Bowls available</p>
+              <img src="food2.png" className="w-40 h-40 object-cover -mt-20 shadow-2xl rounded-full" />
+              <p className="text-xl">Dish two</p>
+              <span className="text-gray-400">$3.29</span>
+              <p className="text-gray-600">37 Bowls available</p>
             </div>
             {/* Card */}
             <div className="bg-[#1F1D2B] p-8 rounded-xl flex-col items-center text-center text-gray-300 gap-2">
-              <img src="food1.png" className="w-40 h-40 object-cover -mt-20 shadow-2xl rounded-full" />
-              <p className="text-xl">Speacy seasoned seafood nodles</p>
-              <span className="text-gray-400">$2.29</span>
-              <p className="text-gray-600">20 Bowls available</p>
+              <img src="food3.png" className="w-40 h-40 object-cover -mt-20 shadow-2xl rounded-full" />
+              <p className="text-xl">Dish three</p>
+              <span className="text-gray-400">$2.50</span>
+              <p className="text-gray-600">15 Bowls available</p>
             </div>
             {/* Card */}
             <div className="bg-[#1F1D2B] p-8 rounded-xl flex-col items-center text-center text-gray-300 gap-2">
-              <img src="food1.png" className="w-40 h-40 object-cover -mt-20 shadow-2xl rounded-full" />
-              <p className="text-xl">Speacy seasoned seafood nodles</p>
-              <span className="text-gray-400">$2.29</span>
-              <p className="text-gray-600">20 Bowls available</p>
+              <img src="food4.png" className="w-40 h-40 object-cover -mt-20 shadow-2xl rounded-full" />
+              <p className="text-xl">Dish four</p>
+              <span className="text-gray-400">$4.10</span>
+              <p className="text-gray-600">25 Bowls available</p>
             </div>
             {/* Card */}
             <div className="bg-[#1F1D2B] p-8 rounded-xl flex-col items-center text-center text-gray-300 gap-2">
-              <img src="food1.png" className="w-40 h-40 object-cover -mt-20 shadow-2xl rounded-full" />
-              <p className="text-xl">Speacy seasoned seafood nodles</p>
-              <span className="text-gray-400">$2.29</span>
-              <p className="text-gray-600">20 Bowls available</p>
+              <img src="food5.png" className="w-40 h-40 object-cover -mt-20 shadow-2xl rounded-full" />
+              <p className="text-xl">Dish five</p>
+              <span className="text-gray-400">$7.09</span>
+              <p className="text-gray-600">50 Bowls available</p>
             </div>
             {/* Card */}
             <div className="bg-[#1F1D2B] p-8 rounded-xl flex-col items-center text-center text-gray-300 gap-2">
-              <img src="food1.png" className="w-40 h-40 object-cover -mt-20 shadow-2xl rounded-full" />
-              <p className="text-xl">Speacy seasoned seafood nodles</p>
-              <span className="text-gray-400">$2.29</span>
-              <p className="text-gray-600">20 Bowls available</p>
-            </div>
-          </div>
-        </div>
-        <div className="lg:col-span-2 fixed lg:static right-0 top-0 w-full h-full bg-[#262837]" >
-          {/* Orders */}
-          <div className="relative pt-16 text-gray-300 p-8">
-            <RiCloseLine className="absolute left-4 top-4 p-3 box-content text-gray-300 bg-[#262837] rounded-full text-xl"/>
-            <h1 className="text-2xl my-4 ">Orders#151416</h1>
-            <div className="flex items-center gap-4 flex-wrap">
-              <button className="bg-[#ec7c6a] text-white py-2 px-4 rounded-xl">
-                Dine in
-              </button>
-              <button className=" text-[#ec7c6a] py-2 px-4 rounded-xl border border-gray-500">
-                Dine in
-              </button>
-              <button className=" text-[#ec7c6a] py-2 px-4 rounded-xl border border-gray-500">
-                Dine in
-              </button>
+              <img src="food6.png" className="w-40 h-40 object-cover -mt-20 shadow-2xl rounded-full" />
+              <p className="text-xl">Dish six</p>
+              <span className="text-gray-400">$1.99</span>
+              <p className="text-gray-600">30 Bowls available</p>
             </div>
           </div>
         </div>
