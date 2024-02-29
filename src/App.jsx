@@ -119,7 +119,24 @@ function App() {
             </div>
           </div>
         </div>
-        <div className="lg:col-span-2 fixed lg:static right-0 top-0 w-full bg-[#262837]" >HOla2</div>
+        <div className="lg:col-span-2 fixed lg:static right-0 top-0 w-full h-full bg-[#262837]" >
+          {/* Orders */}
+          <div className="relative pt-16 text-gray-300 p-8">
+            <RiCloseLine className="absolute left-4 top-4 p-3 box-content text-gray-300 bg-[#262837] rounded-full text-xl"/>
+            <h1 className="text-2xl my-4 ">Orders#151416</h1>
+            <div className="flex items-center gap-4 flex-wrap">
+              <button className="bg-[#ec7c6a] text-white py-2 px-4 rounded-xl">
+                Dine in
+              </button>
+              <button className=" text-[#ec7c6a] py-2 px-4 rounded-xl border border-gray-500">
+                Dine in
+              </button>
+              <button className=" text-[#ec7c6a] py-2 px-4 rounded-xl border border-gray-500">
+                Dine in
+              </button>
+            </div>
+          </div>
+        </div>
       </main>
     </div>
   )
