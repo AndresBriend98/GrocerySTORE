@@ -25,10 +25,10 @@
 ![desk](https://github.com/AndresBriend98/GrocerySTORE/assets/127685500/edd67ada-5ac0-4866-827a-316f51b6aa4f)
 
 - Móvil
-<img src="./public/smartphone.png"
+![smartphone](https://github.com/AndresBriend98/GrocerySTORE/assets/127685500/a5259771-d5d8-43d8-b985-f7c2217861d1)
 
 - IPad
-<img src="./public/ipad.png"
+![ipad](https://github.com/AndresBriend98/GrocerySTORE/assets/127685500/584f24f3-ba04-4b96-8be7-147d3437f409)
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
