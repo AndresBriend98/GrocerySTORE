@@ -6,7 +6,7 @@
 
 - React.js
 - Tailwind CSS
-- 
+
 ## <a name="features">🔋 Features</a>
 
 👉 **IMPORTANT**:The project is not finished, more features can be added in the future.
