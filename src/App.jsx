@@ -28,7 +28,7 @@ function App() {
   };
 
   return (
-    <div className="bg-[#262837] w-full min-h-screen">
+    <div className="bg-[#262837] w-full min-h-screen lg:">
       <Sidebar showMenu={showMenu} />
       <Car showOrder={showOrder} setShowOrder={setShowOrder} />
       {/* Menu movil */}
