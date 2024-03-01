@@ -2,6 +2,11 @@
 
 🔴 I haven't published it yet..
 
+## <a name="tech-stack">⚙️ Tech Stack</a>
+
+- React.js
+- Tailwind CSS
+- 
 ## <a name="features">🔋 Features</a>
 
 👉 **IMPORTANT**:The project is not finished, more features can be added in the future.
@@ -13,11 +18,6 @@
 👉 **Orders**: You can view a list of the dishes requested, detailing the quantity and price of each dish as well as the total to pay.
 
 👉 **Sections**: Discounts, messages, notifications, settings.
-
-## <a name="tech-stack">⚙️ Tech Stack</a>
-
-- React.js
-- Tailwind CSS
 
 # <a name="captures">📸 Captures</a>
 
