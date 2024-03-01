@@ -5,9 +5,13 @@
 ## <a name="features">🔋 Features</a>
 
 👉 **IMPORTANT**:The project is not finished, more features can be added in the future.
+
 👉 **Modern User Interface**: A modern and user-friendly interface, offering an intuitive experience for users.
-👉 **Home**: The application has a main menu where you can view all the food dishes available. Each one with its respective name, price and quantities available
-👉 **Orders**: You can view a list of the dishes requested, detailing the quantity and price of each dish as well as the total to pay
+
+👉 **Home**: The application has a main menu where you can view all the food dishes available. Each one with its respective name, price and quantities available.
+
+👉 **Orders**: You can view a list of the dishes requested, detailing the quantity and price of each dish as well as the total to pay.
+
 👉 **Sections**: Discounts, messages, notifications, settings.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
