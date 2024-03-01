@@ -22,7 +22,7 @@
 ## <a name="captures">📸 Captures</a>
 
 - Desk
-<img src="./public/desk.png"
+![desk](https://github.com/AndresBriend98/GrocerySTORE/assets/127685500/edd67ada-5ac0-4866-827a-316f51b6aa4f)
 
 - Móvil
 <img src="./public/smartphone.png"
