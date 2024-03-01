@@ -76,42 +76,42 @@ function App() {
           {/* Content */}
           <div className="p-8 grid grid-cols-1 md:grid-cols-2 lg:grid-flow-cols 3 gap-16">
             {/* Card */}
-            <div className="bg-[#1F1D2B] p-8 rounded-xl flex-col items-center text-center text-gray-300 gap-2">
-              <img src="food1.png" className="w-40 h-40 object-cover -mt-20 shadow-2xl rounded-full" />
+            <div className="bg-[#1F1D2B] p-8 rounded-xl flex flex-col items-center text-center text-gray-300 gap-2">
+              <img src="food1.png" className="w-40 h-40 object-cover -mt-20 shadow-2xl rounded-full " />
               <p className="text-xl">Dish one</p>
               <span className="text-gray-400">$2.29</span>
               <p className="text-gray-600">41 Bowls available</p>
             </div>
             {/* Card */}
-            <div className="bg-[#1F1D2B] p-8 rounded-xl flex-col items-center text-center text-gray-300 gap-2">
+            <div className="bg-[#1F1D2B] p-8 rounded-xl flex flex-col items-center text-center text-gray-300 gap-2">
               <img src="food2.png" className="w-40 h-40 object-cover -mt-20 shadow-2xl rounded-full" />
               <p className="text-xl">Dish two</p>
               <span className="text-gray-400">$3.29</span>
               <p className="text-gray-600">37 Bowls available</p>
             </div>
             {/* Card */}
-            <div className="bg-[#1F1D2B] p-8 rounded-xl flex-col items-center text-center text-gray-300 gap-2">
+            <div className="bg-[#1F1D2B] p-8 rounded-xl flex flex-col items-center text-center text-gray-300 gap-2">
               <img src="food3.png" className="w-40 h-40 object-cover -mt-20 shadow-2xl rounded-full" />
               <p className="text-xl">Dish three</p>
               <span className="text-gray-400">$2.50</span>
               <p className="text-gray-600">15 Bowls available</p>
             </div>
             {/* Card */}
-            <div className="bg-[#1F1D2B] p-8 rounded-xl flex-col items-center text-center text-gray-300 gap-2">
+            <div className="bg-[#1F1D2B] p-8 rounded-xl flex flex-col items-center text-center text-gray-300 gap-2">
               <img src="food4.png" className="w-40 h-40 object-cover -mt-20 shadow-2xl rounded-full" />
               <p className="text-xl">Dish four</p>
               <span className="text-gray-400">$4.10</span>
               <p className="text-gray-600">25 Bowls available</p>
             </div>
             {/* Card */}
-            <div className="bg-[#1F1D2B] p-8 rounded-xl flex-col items-center text-center text-gray-300 gap-2">
+            <div className="bg-[#1F1D2B] p-8 rounded-xl flex flex-col items-center text-center text-gray-300 gap-2">
               <img src="food5.png" className="w-40 h-40 object-cover -mt-20 shadow-2xl rounded-full" />
-              <p className="text-xl">Dish five</p>
+              <p className="text-xl mt-0">Dish five</p>
               <span className="text-gray-400">$7.09</span>
               <p className="text-gray-600">50 Bowls available</p>
             </div>
             {/* Card */}
-            <div className="bg-[#1F1D2B] p-8 rounded-xl flex-col items-center text-center text-gray-300 gap-2">
+            <div className="bg-[#1F1D2B] p-8 rounded-xl flex flex-col items-center text-center text-gray-300 gap-2">
               <img src="food6.png" className="w-40 h-40 object-cover -mt-20 shadow-2xl rounded-full" />
               <p className="text-xl">Dish six</p>
               <span className="text-gray-400">$1.99</span>
