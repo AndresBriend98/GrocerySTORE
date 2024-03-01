@@ -6,16 +6,16 @@ const Sidebar = (props) => {
     const {showMenu} = props;
 
     return (
-        <div className={`bg-[#1F1D2B] fixed lg:left-0 top-0 w-28 h-full flex flex-col justify-between py-6 rounded-tr-xl rounded-br-xl z-50 transition-all 
+        <div className={`bg-[#1F1D2B] fixed lg:left-0 top-0 w-30 h-full flex flex-col justify-between py-6 rounded-tr-xl rounded-br-xl z-50 transition-all 
         ${showMenu 
             ? "left-0" 
             : "-left-full"}`
             
         }>{/* Si showMenu esta positivo (?) hace una cosa y sino la otra (:) */}
             <div>
-                <ul className='pl-4'>
+                <ul className='pl-1'>
                     <li>
-                        <h1 className='text-2xl text-gray-300 uppercase font-bold text-center my-5'>Logo</h1>
+                        <img src='logo.png' className='w-20 h-20 pb-2 mb-4 pl-3'></img>
                     </li>
                     <li className='bg-[#262837] p-4 rounded-tl-x rounded-bl-xl'>
                         <a href='#' className='bg-[#ec7c6a] p-4 flex justify-center rounded-xl text-white'>

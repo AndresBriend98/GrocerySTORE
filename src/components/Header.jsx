@@ -13,7 +13,7 @@ const Header = () => {
       {/* Title and search */}
       <div className="flex flex-col md:flex-row md:justify-between md:items-center gap-4 mb-6">
         <div>
-          <h1 className="text-2xl text-gray-300">Jeager Resto</h1>
+          <h1 className="text-2xl text-gray-300">CAVIT Resto</h1>
           <p className="text-gray-500">{obtenerFechaActual()}</p>
         </div>
         <form>
