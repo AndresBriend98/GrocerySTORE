@@ -19,7 +19,7 @@
 
 👉 **Sections**: Discounts, messages, notifications, settings.
 
-# <a name="captures">📸 Captures</a>
+## <a name="captures">📸 Captures</a>
 
 - Desk
 <img src="./public/desk.png"
