@@ -1,6 +1,6 @@
 import { useState } from "react"
 
-import { RiAddLine, RiPieChartLine, RiMenu3Fill, RiUser3Line, RiCloseLine, RiSearch2Line, RiArrowDownSLine } from "react-icons/ri"
+import { RiAddLine, RiPieChartLine, RiMenu3Fill, RiUser3Line, RiCloseLine, RiSearch2Line, RiArrowDownSLine, RiDeleteBin6Line } from "react-icons/ri"
 import Sidebar from "./components/Sidebar"
 
 
@@ -118,6 +118,55 @@ function App() {
               <p className="text-gray-600">30 Bowls available</p>
             </div>
           </div>
+        </div>
+        <div className="lg:col-span-2 fixed lg:static right-0 top-0 bg-[#1F1D2B] w-full h-full">
+          {/* Orders */}
+          <div className="relative pt-16 text-gray-300 p-8">
+            <RiCloseLine className="absolute left-0 top-0 p-3 box-content text-gray-300 bg-[#262837] rounded-full text-xl" /></div>
+            <h1 className="text-2xl my-4">Orders #151416</h1>
+            {/*   */}
+            <div className="flex items-center gap-4 flex-wrap mb-8">
+              <button className="bg-[#ec7c6a] text-white rounded-xl py-2 px-4">Dine in</button>
+              <button className="text-[#ec7c6a] rounded-xl py-2 px-4 border border-gray-500">To Go</button>
+              <button className="text-[#ec7c6a] rounded-xl py-2 px-4 border border-gray-500">Delivery</button>
+            </div>
+            {/* Card */}
+            <div className="grid grid-cols-6 mb-4 p-4">
+              <h5 className="col-span-4">Item</h5>
+              <h5>Qty</h5>
+              <h5>Price</h5>
+            </div>
+            {/* Product */}
+            <div className="bg-[#262837] p-4 rounded-xl">
+              <div className="grid grid-flow-col-6 mb-4">
+                {/* Product description */}
+                <div className="col-span-4 flex items-center gap-3">
+                  <img src="food1.png" className="w-10 h-10 object-cover"/>
+                  <div>
+                    <h5 className="text-sm">Dish one</h5>
+                    <p className="text-xs text-gray-500">$2.29</p>
+                  </div>
+                </div>
+                {/* Qty */}
+                <div>
+                  <span>2</span>
+                </div>
+                {/* Price */}
+                <div>
+                  <span>$4.58</span>
+                </div>
+              </div>
+              {/* Note */}
+              <div className="grid grid-flow-cols-6 items-center">
+                <form className="col-span-5">
+                  <input type="text" className="bg-[#1F1D2B] py-2 px-4 rounder-lg outline-none" placeholder="Order note..."></input>
+                </form>
+                <div>
+                  <button className="border-red-500 p-2 rounded-lg"><RiDeleteBin6Line className="text-red-500"/></button>
+                </div>
+              </div>
+
+            </div>
         </div>
       </main>
     </div>
