@@ -1,6 +1,6 @@
 ## <a name="visit-page">🌟 Visit the page</a>
 
-🔴 I haven't published it yet..
+🔴 https://newgrocerystore.netlify.app/
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
